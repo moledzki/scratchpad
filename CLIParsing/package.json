@@ -1,0 +1,22 @@
+{
+  "name": "cli-parsing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moledzki/scratchpad.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moledzki/scratchpad/issues"
+  },
+  "homepage": "https://github.com/moledzki/scratchpad#readme",
+  "dependencies": {
+    "typescript": "^3.3.3333"
+  }
+}
